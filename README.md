@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ahmed Tamer
+- 👀 I’m interested in Machine learning, Deep learning and Data science
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me :
+-           Kaggle : https://www.kaggle.com/ahmedtamer29
+-           LinkedIn : https://www.linkedin.com/in/ahmedtamerelsayed
