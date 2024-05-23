@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tamer ElSayed</h1>
 <h3 align="center">A passionate Machine learning and Data science learner</h3>
 
-- 🔭 I’m currently working on **Service Cancellation predictor**
+- 🔭 I’m currently working on **GameGlimpse App: A mobile Application with football videos summarization AI model**
 
-- 🌱 I’m currently learning **Machine learning , Linear Algebra**
+- 🌱 I’m currently learning **Software Engineering - DevOps - Site Reliablity Engineering**
 
-- 👯 I’m looking to collaborate on **ML and DL models**
+- 👯 I’m looking to collaborate on **Automating tasks - DevOps Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taamerr](https://github.com/Taamerr)
 
 - 📝 I regularly write articles on [https://www.kaggle.com/ahmedtamer29/discussion](https://www.kaggle.com/ahmedtamer29/discussion)
 
-- 💬 Ask me about **Python - Sickit learn - TensorFlow**
+- 💬 Ask me about **Python - Linux - Docker - Kubernetes - Jenkins - Git**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ahmedtamerelsayed/**
 
