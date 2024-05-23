@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tamer ElSayed</h1>
-<h3 align="center">A passionate Machine learning and Data science learner</h3>
+<h3 align="center">A passionate Software Engineer and DevOps</h3>
 
 - 🔭 I’m currently working on **GameGlimpse App: A mobile Application with football videos summarization AI model**
 
